@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about C, C++ and C# and Python. 
 - I have created C++ programs and an app in Python for the school that I work in.
 - 🌱 I’m currently learning learning C# and Python.
-- 💞️ I’m looking to collaborate on open source projects as a programmer.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 I can be reached at a08lopez@outlook.com
 
 <!---
